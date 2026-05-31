@@ -7,7 +7,7 @@ from sklearn.metrics.pairwise import cosine_similarity
 
 # Load dataset
 df = pd.read_csv(
-    "/Users/prerana/Documents/AI_Shopping_Assistant/data/amazon_products.csv"
+    "data/amazon_products.csv"
 )
 
 # Clean data
