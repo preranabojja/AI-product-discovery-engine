@@ -3,15 +3,16 @@
 ## Executive Summary
 Traditional e-commerce search engines rely heavily on keyword matching, often failing to understand customer intent when users describe products in natural language. To address this challenge, I developed an AI-powered Product Discovery Engine that leverages Natural Language Processing (NLP), semantic search, and vector embeddings to deliver more relevant product recommendations. Using Sentence Transformers, cosine similarity, and over 10,000 product listings, the system enables users to discover products through conversational queries rather than exact keywords. The solution was deployed as an interactive Streamlit web application, demonstrating an end-to-end machine learning workflow from data engineering and model development to cloud deployment.
 
-## Business Problem
-Online retailers often struggle to connect customers with relevant products when search queries do not exactly match product titles or descriptions. This can result in poor user experiences, lower conversion rates, and lost revenue opportunities.
-This project addresses that challenge by building an AI-powered recommendation system capable of understanding user intent through semantic similarity rather than traditional keyword matching.
-
 ## Application Preview
 🔗 Streamlit App: https://ai-shopping-assistant-prerana.streamlit.app 
 
 Live Demo: 
 <img width="1440" height="745" alt="app-demo" src="https://github.com/user-attachments/assets/9575a3ff-32c5-4b3e-9d24-2c4f63601a72" />
+
+## Business Problem
+Online retailers often struggle to connect customers with relevant products when search queries do not exactly match product titles or descriptions. This can result in poor user experiences, lower conversion rates, and lost revenue opportunities.
+This project addresses that challenge by building an AI-powered recommendation system capable of understanding user intent through semantic similarity rather than traditional keyword matching.
+
 
 ## Methodology
 Data Preparation:
